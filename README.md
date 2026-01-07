@@ -14,7 +14,7 @@ I’m a **final-year Undergraduate Engineering student** and a **full-stack app 
 
 I’ve participated in multiple hackathons (**3× runner-up 🏆**), worked on **freelance and client projects**, and I’m currently focused on building **scalable applications, automation systems, and developer tools**.
 
-I enjoy turning ideas into **clean, functional, and production-ready products** — from **Flutter mobile apps** to **backend systems, automation pipelines, and CLI tools**.
+I enjoy turning ideas into **clean, functional, and production-ready products** from **Flutter mobile apps** to **backend systems, automation pipelines, and CLI tools**.
 
 Alongside development, I have a strong interest in **Machine Learning** and have built multiple **ML models and applied projects**, exploring how AI can be integrated into real-world systems.
 
