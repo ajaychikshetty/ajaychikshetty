@@ -1,7 +1,10 @@
 # 👋 Hi, I’m Ajay Chikshetty
 
+🌐 **Portfolio:** [ajaychikshetty.dev](https://ajaychikshetty.dev)
+
 🏆 **3× Hackathon Runner-Up** | 🎓 **Final-Year Engineering Student (MU ’26)**  
 📱 **Flutter & Full-Stack Developer** | ⚙️ **Automation & AI Enthusiast** | 🛠️ **CLI Builder**
+
 
 ---
 
